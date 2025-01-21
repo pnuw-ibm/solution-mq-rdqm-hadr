@@ -1873,6 +1873,7 @@ The destination addresses are the load balancer for each region. This will move 
 
 We create a user that is part of the `mqm` group on each node. This is the user we must connect as when we run the tests.
 
+```
 Batch 8 got successfully, committing...
 Batch 8 committed successfully
 Batch 9 got successfully, committing...
@@ -2272,7 +2273,7 @@ Batch 6 got successfully, committing...
 Batch 6 committed successfully
 Batch 7 got successfully, committing...
 Batch 7 committed successfully
-
+```
 
 
 ### Enabling MQ Console
